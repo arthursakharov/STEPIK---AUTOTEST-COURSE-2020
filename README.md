@@ -1,2 +1,3 @@
 # STEPIK---AUTOTEST-COURSE-2020
-автотесты 
+автотесты
+прохожу курс https://stepik.org/course/575/syllabus
